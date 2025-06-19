@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Top 3 Books I Recommend</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Top 5 Books I Recommend</h1>
-
-  <div class="book">
-    <img src="https://m.media-amazon.com/images/I/71t2jj68CXL._AC_UF1000,1000_QL80_.jpg" alt="Book">
-    <p><strong>Must Read:</strong><br>To Kill a Mockingbird</p>
-  </div>
-
-  <div class="book">
-    <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/25/1435245979235/047c9878-9845-473c-9635-5f32545746b0-1355x2040.jpeg?width=700&quality=85&auto=format&fit=max&s=606433bda33c8c27c5ebd7ba85900473" alt="Book">
-    <p><strong>Fun:</strong><br>The Hitchhiker's Guide to the Galaxy</p>
-  </div>
-
-  <div class="book">
-    <img src="https://m.media-amazon.com/images/I/91Lbhwt5RzL.jpg" alt="Book">
-    <p><strong>Short Read:</strong><br>Animal Farm</p>
-  </div>
-</body>
-</html>
-
-
-
 body {
   background: #fffde7;
   font-family: Georgia, serif;
